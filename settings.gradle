@@ -1,0 +1,2 @@
+rootProject.name='pluginddtest'
+include ':app'
